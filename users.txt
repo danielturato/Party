@@ -1,0 +1,8 @@
+turato,daniel,28,06,1999,essex,england,british,dt@outlook.com,piano;reading;compsci
+a,billy,28,06,1999,essex,england,british,dt@outlook.com,piano;reading;compsci;running
+turato,phillip,28,06,1999,essex,england,british,dt@outlook.com,piano;reading;compsci;gym
+b,katie,28,06,1999,essex,england,british,dt@outlook.com,piano;reading;compsci;music;eating
+ell,daniel,28,06,1999,essex,england,british,dt@outlook.com,piano;reading;compsci
+c,rita,28,06,1999,essex,england,british,dt@outlook.com,piano;reading;compsci
+b,aaron,28,06,1999,essex,england,british,dt@outlook.com,piano;reading;compsci;guitar;drums
+turato,marco,28,06,1999,essex,england,british,dt@outlook.com,piano;
